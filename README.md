@@ -1,4 +1,4 @@
-# задание 5
+# Серьги "Дыхание дня"
 
 A Pen created on CodePen.
 
